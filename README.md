@@ -3,8 +3,8 @@ change to be compatible with the resnet18 in PyTorch 1.2
 remove tensorboardX
 
 ## Config
-pytorch 1.2.0 
-dataset: ICIAR 2018, please download via the grand-challenge website. 
+pytorch 1.2.0   
+dataset: ICIAR 2018, please download via the grand-challenge website.  
 
 To split the dataset into 10-fold, please run the following commind in the "dataset2018" folder:
 ```
