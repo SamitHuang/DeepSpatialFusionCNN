@@ -7,7 +7,9 @@ pytorch 1.2.0
 dataset: ICIAR 2018, please download via the grand-challenge website. 
 
 To split the dataset into 10-fold, please run the following commind in the "dataset2018" folder:
-    python split_dataset.py
+```
+python split_dataset.py
+```
 
 ## Single fold model
 To train the patch-wise network:
