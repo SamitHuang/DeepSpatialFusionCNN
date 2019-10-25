@@ -1,5 +1,5 @@
 ## Update
-change to be compatible with the resnet18 in PyTorch 1.2
+change to be compatible with the resnet18 in PyTorch 1.2  
 remove tensorboardX
 
 ## Config
